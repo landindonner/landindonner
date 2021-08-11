@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @landindonner
 - 👀 I’m interested in restarting my tech career.
 - 🌱 I’m currently learning cybersecurity.
--
-- 📫 landindonner@gmail.com
+
+
 
 <!---
 landindonner/landindonner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
